@@ -1,5 +1,5 @@
 # java-collection
-A collection of single-file programs written in Java
+A collection of my single-file Java solutions
 
 ## BookAppVoronov.java
 This program is a Java application for a BookStore that allows the user to add, delete, and sort books based on different criteria such as title, author, or price. The program includes a Book class that represents a book with its title, author, ISBN, and price, as well as several methods for comparing and manipulating books.
